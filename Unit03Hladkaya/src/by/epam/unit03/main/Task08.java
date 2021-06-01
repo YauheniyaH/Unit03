@@ -67,6 +67,6 @@ public class Task08 {
 			terminator = sc.nextLine();
 
 		}
-	}
+	}//зачтено
 
 }
